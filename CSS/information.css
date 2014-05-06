@@ -1,0 +1,136 @@
+#system_information {
+    width: 1300px;
+}
+#no_data_received
+{
+    color: red;
+}
+.information {
+	width: 1300px;
+}
+.information .click{
+	font-size: 13px;
+}
+
+#host_down {
+	color: #FF0000;
+    font-size: 20px;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+    width: 1000px;
+}
+
+#operation_system {
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-shadow: 2px 2px 2px #335699;
+}
+#operation_system #operating_system_name{
+	font-size: 40px;
+	color: #c60000;
+}
+.block_header {
+    width: 1300px;
+    color: #141823;
+    font-size: 20px;
+    padding-bottom: 10px;
+	text-shadow: 2px 2px 2px #335699;
+}
+.block_header a {
+    text-decoration: none;
+}
+.block_data {
+    width: 1300px;
+}
+#system_information #block_data_1 .row {
+    width: 1300px;
+}
+#system_information #block_data_1 .row {
+    width: 1300px;
+}
+#system_information #block_data_1 .row .col_left {
+    width: 280px;
+    float: left;
+    text-align: left;
+	padding-left: 20px;
+}
+#system_information #block_data_1 .row .col_right {
+    width: 1000px;
+    float: left;
+}
+
+#storage_information #block_data_2 .row {
+	width: 1300px;
+	padding-bottom: 5px;
+}
+
+#storage_information #block_data_2 .row_drive {
+	width: 1000px;
+	padding-left: 20px;
+}
+
+#storage_information #block_data_2 .row_drive .disk {
+	width: 400px;
+	height: 20px;
+	border: 1px solid #4285F4;
+	border-radius: 4px;
+}
+
+#storage_information #block_data_2 .row_drive .disk .disk_used {
+	height: 20px;
+	border-radius: 4px 0px 0px 4px;
+	background-color: #4285F4;
+}
+
+#storage_information #block_data_2 .row .drive_description {
+	font-size: 11px;
+	padding-left: 20px;
+}
+
+#storage_information #block_data_2 .row .total_and_free {
+	font-size: 10px;
+	padding-left: 20px;
+}
+
+#running_applications #block_data_3 {
+	
+}
+
+
+#running_applications #block_data_3 .row {
+	width: 1300px;
+    float: left;
+}
+
+#running_applications #block_data_3 .row .col {
+	width: 300px;
+	float: left;
+	text-align: left;
+	font-size: 11px;
+}
+
+#running_applications #block_data_3 .row .col_start {
+	width: 280px;
+	padding-left: 20px;
+}
+
+#running_applications #block_data_3 #row_title
+{
+	font-size: 15px;
+	color: #141823;
+	padding-bottom: 5px;
+	text-shadow: 2px 2px 2px #335699;
+}
+
+#installed_information #block_data_4 .installed_application_class {
+    width: 300px;
+    height: 60px;
+    border: 1px solid #4285F4;
+    font-size: 11px;
+    padding: 1px;
+    margin: 1px;
+    float: left;
+    border-radius: 2px;
+}

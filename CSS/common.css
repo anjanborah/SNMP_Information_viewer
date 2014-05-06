@@ -1,0 +1,42 @@
+.body_common {
+    margin: 0 auto;
+    width: 1300px;
+    padding: 0;
+}
+
+#header {
+    height: 102px;
+    width: 1300px;
+    border-bottom: 1px solid #141823;
+    text-decoration: none;
+}
+
+#header_link_to_index {
+    text-decoration: none;
+}
+
+#header_name {
+    color: #141823;
+    font-family: arial;
+    font-size: 60px;
+    text-shadow: 2px 2px 2px #335699;
+}
+
+#header_detail {
+    color: #141823;
+    font-family: arial;
+    font-size: 13px;
+    text-shadow: 2px 2px 2px #335699;
+}
+
+#footer {
+    height: 102px;
+    width: 1300px;
+    border-top: 1px solid #141823;
+}
+
+#container {
+    min-height: 800px;
+    width: 1300px;
+    overflow: auto;
+}
