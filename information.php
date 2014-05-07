@@ -223,7 +223,7 @@
 						print '<div id="installed_information" class="information">';
 						
 							print '<div id="block_header_id_4" class="block_header">';
-								print '<span class="click">click for </span><a href="#">Installed Information</a>';
+								print '<span class="click">click for </span><a href="#">Installed Applications</a>';
 							print '</div>';
 							
 							print '<div id="block_data_4" class="block_data">';
